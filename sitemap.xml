@@ -8,13 +8,13 @@
   </url>
   
   <url>
-    <loc>https://nacx.github.io/categories/about/</loc>
+    <loc>https://nacx.github.io/tags/about/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://nacx.github.io/tags/about/</loc>
+    <loc>https://nacx.github.io/categories/about/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -32,12 +32,12 @@
   </url>
   
   <url>
-    <loc>https://nacx.github.io/categories/publications/</loc>
+    <loc>https://nacx.github.io/tags/publications/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://nacx.github.io/tags/publications/</loc>
+    <loc>https://nacx.github.io/categories/publications/</loc>
     <priority>0</priority>
   </url>
   
@@ -52,12 +52,12 @@
   </url>
   
   <url>
-    <loc>https://nacx.github.io/categories/talks/</loc>
+    <loc>https://nacx.github.io/tags/talks/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://nacx.github.io/tags/talks/</loc>
+    <loc>https://nacx.github.io/categories/talks/</loc>
     <priority>0</priority>
   </url>
   
