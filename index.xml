@@ -18,7 +18,7 @@
       
       <guid>https://nacx.dev/about/</guid>
       <description>GPG Key 8734 E018 56BC 8307 CD94 AC2E 3D54 14A0 D959 B94F  
-I am a researcher in cloud computing, virtualization and container technologies, and open source community contributor. My research interests revolve around distributed and highly concurrent systems, large cloud infrastructures, networking and SDN, and security.
+I am a researcher in cloud computing, virtualization and container technologies, and open source community contributor. My research interests revolve around distributed and highly concurrent systems, large cloud infrastructures, networking, and security.
 Currently working as the Security Lead at Tetrate and building a Service Mesh platform for the hybrid and multi-cloud world.
 I am a Member of the Apache Software Foundation, where I help with community outreach and the promotion of Open Source and The Apache Way, and committer and member of the Incubator, Community Development, and Apache jclouds project management committees.</description>
     </item>
@@ -40,8 +40,8 @@ Los ataques e intrusiones contra sistemas informáticos suponen a diario grandes
       
       <guid>https://nacx.dev/talks/</guid>
       <description>Here are some of the talks I&amp;rsquo;ve delivered recently and in the past few years. All the slides for my talks can be found in Speaker Deck.
- Do you need a service mesh? CodeMotion Madrid, 2018
-In this talk I explored what a service mesh is and what they can do for your microservice web backends. Are the claims of observability, resiliency, and WAF features real? Are they useful during development, production, or both?</description>
+ Next Generation Access Control for the Multi-Cloud World Service Mesh Day San Francisco, 2019
+NGAC is a fundamental reworking of traditional access control into a form suited to the needs of the modern, distributed, interconnected enterprise. NGAC is based on a flexible infrastructure that can provide access control services for a number of different types of resources, accessed by a number of different types of applications and users.</description>
     </item>
     
   </channel>
