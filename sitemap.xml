@@ -3,66 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://nacx.dev/about/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nacx.dev/tags/about/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nacx.dev/categories/about/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://nacx.dev/categories/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nacx.dev/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nacx.dev/tags/publications/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nacx.dev/categories/publications/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nacx.dev/publications/</loc>
   </url>
   
   <url>
     <loc>https://nacx.dev/tags/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nacx.dev/tags/talks/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nacx.dev/categories/talks/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nacx.dev/talks/</loc>
   </url>
   
 </urlset>
