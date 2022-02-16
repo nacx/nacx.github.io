@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-	<meta name="generator" content="Hugo 0.89.1" />
+	<meta name="generator" content="Hugo 0.92.2" />
 	
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-154916578-1"></script>
 	<script>
@@ -90,10 +90,46 @@ of the <a href="https://incubator.apache.org">Incubator</a>, <a href="https://co
 		
 		<li>
 			
+			<p class="publications"> <strong>Service Mesh as the Security Kernel for Zero Trust Platforms</strong></p>
+			
+			<span class="collaborators">
+				<em>Zero Trust Architecture and DevSecOps for Cloud-Native Applications, NIST 2022</em>
+			</span>
+
+			
+			<span class="code_blog">
+				
+				[<a href="https://cdnapisec.kaltura.com/index.php/extwidget/preview/partner_id/684682/uiconf_id/49375382/entry_id/1_lepgc6hr/embed/dynamic#t=01:17">video</a>]
+				
+				
+				
+				
+                                
+				[<a href="https://github.com/tetratelabs/nist-demo-2022">code</a>]
+				
+			</span>
+			
+
+			
+			<span class="project_description">
+				In this talk given at the
+<a href="https://www.nist.gov/news-events/events/2022/01/zta-and-devsecops-cloud-native-applications-virtual">Zero Trust Architecture and DevSecOps for Cloud-Native Applications</a>
+conference held at <a href="https://www.nist.gov/">NIST</a>, I am demonstrating how a Service Mesh can be used as a Security
+Kernel to implement Zero Trust platforms. We will see how we can leverage distributed enforcement points to apply policy on the
+user identity, how to enforce runtime identity as well, and how application targetted policies can be created to quickly
+mitigate vulnerabilities like the <code>Log4Shell</code> one.<br>
+The <a href="https://github.com/tetratelabs/nist-demo-2022">demo</a> also shows the development of custom WASM-based policies that can leverage the entire feature set of the programming
+language of choice to build rich access policies that can be enforced by the mesh.
+			</span>
+			
+		</li>
+		
+		<li>
+			
 			<p class="publications"> <strong>Access Control for Microservices</strong></p>
 			
 			<span class="collaborators">
-				<em>Istio Weekly live stream</em>
+				<em>Istio Weekly live stream, 2021</em>
 			</span>
 
 			
@@ -105,6 +141,8 @@ of the <a href="https://incubator.apache.org">Incubator</a>, <a href="https://co
 				
 				[<a href="https://speakerdeck.com/nacx/access-control-for-microservices">slides</a>]
 				
+				
+                                
 			</span>
 			
 
@@ -134,6 +172,8 @@ into its decision making process, and discuss how a Service Mesh can help levera
 				
 				[<a href="https://speakerdeck.com/nacx/identity-provisioning-in-a-service-mesh">slides</a>]
 				
+				
+                                
 			</span>
 			
 
@@ -165,6 +205,8 @@ Envoy SDS API to continuously provision certificates to the workloads to be used
 				
 				[<a href="https://speakerdeck.com/nacx/protecting-your-data-with-a-service-mesh">slides</a>]
 				
+				
+                                
 			</span>
 			
 
@@ -196,6 +238,8 @@ time-bounded access permissions.
 				
 				[<a href="https://speakerdeck.com/nacx/service-mesh-and-the-future-of-networking">slides</a>]
 				
+				
+                                
 			</span>
 			
 
@@ -206,8 +250,8 @@ emerge and grow very fast. Projects like <a href="http://istio.io">Istio</a>, <a
 <a href="https://www.consul.io/">Consul</a> have become very popular and people are starting to adopt them and figuring out
 the new possibilities these projects bring. But beyond the individual features each of those projects provide,
 in this talk, we will present the core concepts of a Service Mesh, the novel things this technology brings, and
-the use cases it is meant to solve.
-<!-- raw HTML omitted -->We will explore how Service Meshes will push networking to the next level, opening the door to a whole new set of
+the use cases it is meant to solve.<br>
+We will explore how Service Meshes will push networking to the next level, opening the door to a whole new set of
 possibilities especially designed for this new era of multi-cloud and hybrid architectures, and giving us a mental model
 with which to explore and evaluate after the talk.
 			</span>
@@ -231,6 +275,8 @@ with which to explore and evaluate after the talk.
 				
 				[<a href="https://speakerdeck.com/nacx/next-generation-access-control-ngac-for-the-multi-cloud-world">slides</a>]
 				
+				
+                                
 			</span>
 			
 
@@ -239,8 +285,8 @@ with which to explore and evaluate after the talk.
 				NGAC is a fundamental reworking of traditional access control into a form suited to the needs of
 the modern, distributed, interconnected enterprise. NGAC is based on a flexible infrastructure that can provide
 access control services for a number of different types of resources, accessed by a number of different types of
-applications and users.
-<!-- raw HTML omitted -->In this joint talk with <a href="https://www.nist.gov/people/david-ferraiolo">David Ferraiolo</a> from <a href="https://www.nist.gov/">NIST</a>
+applications and users.<br>
+In this joint talk with <a href="https://www.nist.gov/people/david-ferraiolo">David Ferraiolo</a> from <a href="https://www.nist.gov/">NIST</a>
 we introduced NGAC and did a live demo showing how it can be applied to augment traditional RBAC with high level
 concepts xsuch as time and location in an efficient and scalable way.
 			</span>
@@ -264,6 +310,8 @@ concepts xsuch as time and location in an efficient and scalable way.
 				
 				[<a href="https://speakerdeck.com/nacx/do-you-need-a-service-mesh">slides</a>]
 				
+				
+                                
 			</span>
 			
 
@@ -292,12 +340,14 @@ works, giving us a mental model with which to explore and evaluate after the tal
 				
 				[<a href="https://speakerdeck.com/nacx/standalone-neutron-how-we-integrated-it-with-abiquo">slides</a>]
 				
+				
+                                
 			</span>
 			
 
 			
 			<span class="project_description">
-				This is a talk I gave at the OpenStack BCN 7th birthday meetup.<!-- raw HTML omitted -->
+				This is a talk I gave at the OpenStack BCN 7th birthday meetup.<br>
 In it I explain how we integrated a standalone Neutron with Abiquo to implement an SDN solution without a full OpenStack deployment.
 			</span>
 			
@@ -318,13 +368,15 @@ In it I explain how we integrated a standalone Neutron with Abiquo to implement 
 				
 				[<a href="https://speakerdeck.com/nacx/rule-the-cloud-with-apache-jclouds">slides</a>]
 				
+				
+                                
 			</span>
 			
 
 			
 			<span class="project_description">
 				Apache jclouds is an open source multi-cloud toolkit for the Java platform that gives you the freedom
-to create applications that are portable across clouds while giving you full control to use cloud-specific features.<!-- raw HTML omitted -->
+to create applications that are portable across clouds while giving you full control to use cloud-specific features.<br>
 In this talk I explored the core concepts around jclouds and did a demo showing how the same code can be used to
 manage your infrastructure in different cloud providers.
 			</span>
@@ -430,7 +482,7 @@ behind the <em>Apache Way</em>, the framework used in the Foundation to create s
 		<div class="footer wrapper">
 	<nav class="nav">
 		<div style="text-align: center">
-			© 2021 Ignasi Barrera. Licensed under the <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License, Version 2.0</a><br/>
+			© 2022 Ignasi Barrera. Licensed under the <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License, Version 2.0</a><br/>
 			Built with <a href="https://gohugo.io">Hugo</a> & <a href="https://github.com/hadisinaee/avicenna">Avicenna Theme</a>
 		</div>
 	</nav>
