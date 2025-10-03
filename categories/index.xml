@@ -4,7 +4,8 @@
     <title>Categories on Ignasi Barrera</title>
     <link>https://nacx.dev/categories/</link>
     <description>Recent content in Categories on Ignasi Barrera</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language><atom:link href="https://nacx.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <atom:link href="https://nacx.dev/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
